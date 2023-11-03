@@ -1,7 +1,8 @@
 # SOP: Backup and Restore on OneDrive
 
 ## Purpose: To backup critical data in the event of damage or corruption and restore necessary files if required.  
-## Scope: New user onboarding and offboarding
+
+## Scope: All areas 
 
 ## Execution by: IT Team
 
